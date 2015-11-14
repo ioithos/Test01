@@ -1,3 +1,5 @@
 Hello, I am Ian Thomas.
 
 This is my second change.
+
+i am cool.
